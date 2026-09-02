@@ -34,4 +34,4 @@ python 05_mini_project_grade_calculator.py
 Detailed notes on AI vs ML vs DL and real-world applications are linked here: *[add your Google Docs / Notion link]*
 
 ## Author
-*[Your Name]* — Codomax Internship
+Dilip s karajagi — Codomax Internship
